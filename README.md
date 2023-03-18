@@ -16,9 +16,9 @@ There is also an a proper attacking method on WiFi which you can find on discord
 2. On Desktop, press Shift + Right click and click on Open Command Window Here.
 
 3. Now type in cmd:
-
-;code
 python3 extract.py.
+
+---
 
 Download pyXtools: python + Hacking from playstore for more Hacking Scripts:-
 Link: https: https://play.google.com/store/apps/details?id=com.pythonxtools
