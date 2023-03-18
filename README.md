@@ -14,7 +14,7 @@ There is also an a proper attacking method on WiFi which you can find on discord
 
 # How to Run:
 
-1. Install python if not installed.
+1. Install python if not installed. ( One click installation file is available in repository:-  )
 
 2. On Desktop, press Shift + Right click and click on Open Command Window Here.
 
@@ -24,9 +24,12 @@ python3 extract.py.
 ***
 
 Download pyXtools: python + Hacking from playstore for more Hacking Scripts:-
-Link: https: https://play.google.com/store/apps/details?id=com.pythonxtools
+Link:-https: https://play.google.com/store/apps/details?id=com.pythonxtools
 
-Also join my discord: https://discord.gg/U2j3egJP
+Also join my discord:- ttps://discord.gg/U2j3egJP
+
+or Support me on Patreon if you want a software to extract or Attack on WiFi:- 
+https://www.patreon.com/DarkmoonAlpha
 
 ***
 
