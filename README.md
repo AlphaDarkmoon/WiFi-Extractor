@@ -14,7 +14,7 @@ There is also an a proper attacking method on WiFi which you can find on discord
 
 # How to Run:
 
-1. Install python if not installed. ( One click installation file is available in repository:-  )
+1. Install python if not installed. ( One click installation file is available in repository:- https://github.com/AlphaDarkmoon/Python_Installer )
 
 2. On Desktop, press Shift + Right click and click on Open Command Window Here.
 
