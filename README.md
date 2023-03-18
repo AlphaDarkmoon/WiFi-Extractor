@@ -7,6 +7,8 @@ Its a python acript to show saved wifi names and there passwords.
 
 There is also an a proper attacking method on WiFi which you can find on discord and in Tricks section.
 
+***
+
 # [NOTE:ONLY FOR EDUCATIONAL PURPOSE.]
 
 ***
@@ -20,12 +22,14 @@ There is also an a proper attacking method on WiFi which you can find on discord
 3. Now type in cmd:
 python3 extract.py.
 
----
+***
 
 Download pyXtools: python + Hacking from playstore for more Hacking Scripts:-
 Link: https: https://play.google.com/store/apps/details?id=com.pythonxtools
 
 Also join my discord: https://discord.gg/U2j3egJP
+
+***
 
 # DISCLAIMER:
 
