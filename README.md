@@ -11,7 +11,6 @@ There is also an a proper attacking method on WiFi which you can find on discord
 
 # [NOTE:ONLY FOR EDUCATIONAL PURPOSE.]
 
-***
 
 # How to Run:
 
